@@ -7,7 +7,7 @@ purchase a product based on the **Social_Network_Ads** dataset.
 
 ## 🚀 Project Overview
 
-**`ml_hw3_q9.ipynb`** contains the complete workflow:
+**`soft_margin_optimization.ipynb`** contains the complete workflow:
 
 -   Data loading and preprocessing (`Social_Network_Ads.csv`)
 -   Primal SVM formulation using `cvxpy`
