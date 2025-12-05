@@ -6,13 +6,13 @@ This repository serves as a centralized collection for all projects and assignme
 
 The repository is organized by assignment, with each project residing in its own dedicated directory. This structure ensures modularity and clarity.
 
-* **Project Folders**: Each folder corresponds to a specific assignment (e.g., `ML_HW1`, `Classification_Project`, `Neural_Networks`).
+* **Project Folders**: Each folder corresponds to a specific assignment (e.g., `Soft_margin_svm_optimization`, `Diabetes_Classification_SVM`).
 * **Project Specifics**: Inside each project directory, you will find:
     * **`README.md`**: Detailed information about the specific project, including objectives, methodology, and results.
     * **`requirements.txt`**: A list of Python libraries and dependencies required to run the code for that particular assignment.
     * **Code Files**: Jupyter Notebooks (`.ipynb`) or Python scripts (`.py`) containing the implemented models and analyses.
 
-## ✨ Highlights
+## 🛠️ Topics Covered
 
 Projects cover a range of core Machine Learning topics, including:
 
